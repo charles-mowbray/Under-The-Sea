@@ -1,3 +1,0 @@
-/home/charlesmowbray/Documents/GitHub/graphicsFinal/build/CMakeFiles/lab11.dir
-/home/charlesmowbray/Documents/GitHub/graphicsFinal/build/CMakeFiles/edit_cache.dir
-/home/charlesmowbray/Documents/GitHub/graphicsFinal/build/CMakeFiles/rebuild_cache.dir
