@@ -10,6 +10,8 @@ This project simulates an underwater environment where fish exhibit flocking beh
 
 **Boids Algorithm Reference:** https://github.com/beneater/boids/blob/master/boids.js
 
+
+
 ## Features
 
 - **Boid-based Fish Simulation**: Fish exhibit realistic flocking behavior with:
@@ -21,6 +23,13 @@ This project simulates an underwater environment where fish exhibit flocking beh
 - **Skybox**: Immersive underwater skybox
 - **Lighting**: Dynamic lighting with Phong shading
 - **Collision Detection**: Fish avoid obstacles and boundaries
+
+# Demo
+![Under the Sea Demo](assets/under_the_sea.gif)
+
+*Fish exhibit flocking behavior as they follow the user-controlled yellow sphere through an underwater environment.*
+
+#
 
 ## Prerequisites
 
