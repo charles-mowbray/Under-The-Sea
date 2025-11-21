@@ -16,15 +16,11 @@ This project simulates an underwater environment where fish exhibit flocking beh
   - Separation: Avoid crowding neighbors
   - Alignment: Steer towards average heading of neighbors
   - Cohesion: Steer towards average position of neighbors
-- **First-Person Camera**: Navigate through the underwater scene
-- **Texture Mapping**: Realistic textures for fish, water, and environment
+- **Third-Person Camera**: Navigate through the underwater scene
+- **Texture Mapping**: Textures for fish, water, and environment
 - **Skybox**: Immersive underwater skybox
 - **Lighting**: Dynamic lighting with Phong shading
 - **Collision Detection**: Fish avoid obstacles and boundaries
-
-## Screenshots
-
-_[Add screenshots here]_
 
 ## Prerequisites
 
@@ -40,9 +36,6 @@ Ensure you have MinGW installed and libraries available at `Z:/CSCI441/`
 ## Building the Project
 
 ```bash
-# Clone the repository
-git clone [your-repo-url]
-cd graphicsFinal
 
 # Create build directory and compile
 mkdir build
