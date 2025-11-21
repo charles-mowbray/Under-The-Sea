@@ -1,14 +1,11 @@
 /*
- *  CSCI 441, Computer Graphics, Fall 2022
- *
- *  Project: lab11
+ *  Authors: Charles Mowbray, Phil Stanton, Ethan Beckett
+ *  Project: Under The Sea
  *  File: main.cpp
  *
  *  Description:
- *      This file contains the basic setup for collision detection.
- *
- *  Author: Dr. Paone, Colorado School of Mines, 2022
- *
+ *      Starts and initializes the main engine
+ * 
  */
 
 #include "FPEngine.h"

@@ -1,18 +1,3 @@
-/*
- *  CSCI 444, Advanced Computer Graphics, Fall 2021
- *
- *  Project: lab1
- *  File: textureShader.v.glsl
- *
- *  Description:
- *      Pass Through Vertex Shader
- *
- *  Author:
- *      Dr. Jeffrey Paone, Colorado School of Mines
- *
- *  Notes:
- *
- */
 
 // we are using OpenGL 4.1 Core profile
 #version 410 core

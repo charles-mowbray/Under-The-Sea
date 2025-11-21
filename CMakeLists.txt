@@ -3,6 +3,9 @@ project(lab11)
 set(CMAKE_CXX_STANDARD 17)
 set(SOURCE_FILES main.cpp FPEngine.cpp FPEngine.h Sunfish.cpp)
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
+find_package(OpenGL)
+find_package(glfw3)
+find_package(GLEW)
 
 # Windows with MinGW Installations
 if( ${CMAKE_SYSTEM_NAME} MATCHES "Windows" AND MINGW )

@@ -20,7 +20,7 @@
 
 FPEngine::FPEngine()
          : CSCI441::OpenGLEngine(4, 1,
-                                 640, 480,
+                                 1280, 960,
                                  "Lab11: Collision Detection") {
 
     for(auto& _key : _keys) _key = GL_FALSE;
@@ -649,8 +649,6 @@ void FPEngine::_collideFishWithWall() {
 }
 
 void FPEngine::_collideFishWithFish() {
-    // TODO #3: check for interball collisions
-    // warning this isn't perfect...balls can get caught and
     // continually bounce back-and-forth in place off
     // each other
     for(int i = 0; i < _numFish; i++){
